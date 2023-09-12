@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋 I'm Hassan Bin Aman
 
-<!--
-**player-ZED/player-ZED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=hassanbinaman)
 
-Here are some ideas to get you started:
+I'm a passionate individual based in Islamabad, Pakistan, currently pursuing a Bachelor of Science in Cyber Security from Air University. Welcome to my GitHub profile! Here, you'll find information about my interests, hobbies, skills, education, and work experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  A little bout Me
+
+- **Interests:** Ethical Hacking, Problem Solving, Coding
+- **Hobbies:** Basketball, Coding, Reading
+- **Skills:** Problem Solving, Coding, Sports
+- **Work Experience:** Currently developing apps and studing !
+
+## 🌐 Connect with Me
+
+You can find me on LinkedIn and via email:
+
+- [LinkedIn](example-link-here) 🔗
+- hassanbinaman2@gmail.com :envelope:
+
+## 📝 Blog
+
+Stay tuned for my upcoming blog! Exciting content is on the way.
+
+##
