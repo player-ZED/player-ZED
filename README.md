@@ -20,5 +20,5 @@ You can find me on LinkedIn and via email:
 
 ## 📝 Blog
 
--Medium Blogs : https://medium.com/@hassanbinaman:
+-[Medium Blogs](https://medium.com/@hassanbinaman)
 ##
