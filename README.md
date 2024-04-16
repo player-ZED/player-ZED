@@ -20,6 +20,5 @@ You can find me on LinkedIn and via email:
 
 ## 📝 Blog
 
-Stay tuned for my upcoming blog! Exciting content is on the way.
-
+-Medium Blogs : https://medium.com/@hassanbinaman:
 ##
