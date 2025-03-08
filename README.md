@@ -6,8 +6,8 @@ I'm a passionate individual based in Islamabad, Pakistan, currently pursuing a B
 
 ##  A little bout Me
 
-- **Interests:** Ethical Hacking, Problem Solving, Coding
-- **Hobbies:** Basketball, Coding, Reading
+- **Interests:** Ethical Hacking, Problem Solving
+- **Hobbies:** Basketball, Reading
 - **Skills:** Problem Solving, Coding, Sports
 - **Work Experience:** Currently developing apps and studing !
 
